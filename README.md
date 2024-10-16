@@ -1,4 +1,5 @@
 # Camel Game
+Here is the link to a help video: https://www.wevideo.com/view/3583611138
 The idea for Camel originally came from the Heath Users Group and was published in More BASIC Computer Games in 1979.<br>
 
 The idea is to ride your camel across the desert while being chased. You need to manage your thirst, how tired the camel is, and how far ahead of the natives you are.<br>
